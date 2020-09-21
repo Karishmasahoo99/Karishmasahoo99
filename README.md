@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey there, I'm Karishma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<!--
-**Karishmasahoo99/Karishmasahoo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a third year Electrical and Electronics Engineering student at VSSUT,Burla.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on React.JS
+- 🥅 Goals: Expertise in web development, contribute to Open Source projects and enjoy this pandemic!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### ⚡ World
+
+---
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+
+<br>
+
+
+<p align="center">
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width="340px"> 
+
+<img src="https://octodex.github.com/images/heisencat.png" height="400px" width="340px"> 
+ </p>
